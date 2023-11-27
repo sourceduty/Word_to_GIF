@@ -19,7 +19,7 @@ Each frame of the GIF represents a word from the sentence, building up to the fu
 ### CONVERSATION STARTERS
 
 - Create a GIF from 15 words.
-- Create an example GIF.
+- Create an example 15 word GIF.
 - What does Word to GIF do?
 - How does Word to GIF work?
 
